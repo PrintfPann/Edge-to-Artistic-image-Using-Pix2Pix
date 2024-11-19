@@ -20,6 +20,9 @@ Licenses: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and 
 - Any modifications to the original code or datasets are subject to the licenses mentioned above.
 - Ensure compliance with all license terms when using, distributing, or modifying this project.
 
+## Download Model
+White version:
+Black version: 
 ## Deployment
 link: https://edge-to-artistic-image-using-pix2pix-pgjhu5kx8jzfubsn82zwqb.streamlit.app/
 
