@@ -22,6 +22,7 @@ Licenses: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and 
 
 ## Download Model
 White version: https://drive.google.com/uc?id=12FSQHYw1ldDGg9NDVdaVP_AgRU_YX_c_
+
 Black version: https://drive.google.com/uc?id=12bJwAWoaSpMDkYhx2te2C5HF5ko-W6Yt
 ## Deployment
 link: https://edge-to-artistic-image-using-pix2pix-pgjhu5kx8jzfubsn82zwqb.streamlit.app/
