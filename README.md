@@ -22,3 +22,6 @@ Licenses: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and 
 
 ## Deployment
 link: https://edge-to-artistic-image-using-pix2pix-pgjhu5kx8jzfubsn82zwqb.streamlit.app/
+
+## Blog
+link: https://medium.com/@pantawee.srihawan/edge-to-artistic-image-using-pix2pix-468db6736104
