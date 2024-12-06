@@ -21,7 +21,7 @@ Licenses: [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) and 
 - Ensure compliance with all license terms when using, distributing, or modifying this project.
 
 ## Download Model
-White version: https://drive.google.com/uc?id=12FSQHYw1ldDGg9NDVdaVP_AgRU_YX_c_
+White version: https://drive.google.com/uc?id=10Ozf8JYZmo9kAwXJd-hM3llY_dKXrVCM
 
 Black version: https://drive.google.com/uc?id=1GnQGcvhba4rg305XfqLoYjGNnZqciiwK
 ## Deployment
