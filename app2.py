@@ -14,8 +14,8 @@ def download_model(url, output):
         raise
 
 # ลิงก์ Google Drive (แบบ Direct Download)
-black_model_url = "https://drive.google.com/uc?id=12bJwAWoaSpMDkYhx2te2C5HF5ko-W6Yt"
-white_model_url = "https://drive.google.com/uc?id=12FSQHYw1ldDGg9NDVdaVP_AgRU_YX_c_"
+black_model_url = "https://drive.google.com/uc?id=1GnQGcvhba4rg305XfqLoYjGNnZqciiwK"
+white_model_url = "https://drive.google.com/uc?id=1Jn_YpIPQo-VNf-Eq_ZeWOdMECezYYKQI"
 
 # ดาวน์โหลดโมเดลถ้ายังไม่มีไฟล์
 if not os.path.exists("generator_model_black_100.h5"):
