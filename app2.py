@@ -23,7 +23,7 @@ if not os.path.exists("generator_model_black_100.h5"):
 if not os.path.exists("generator_model_white_100.h5"):
     download_model(white_model_url, "generator_model_white_100.h5")
 
-@st.cache_resource
+@st.cache_data
 def load_model(path):
     return tf.keras.models.load_model(path)
 
