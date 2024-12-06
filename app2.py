@@ -15,13 +15,13 @@ def download_model(url, output):
 
 # ลิงก์ Google Drive (แบบ Direct Download)
 black_model_url = "https://drive.google.com/uc?id=1GnQGcvhba4rg305XfqLoYjGNnZqciiwK"
-white_model_url = "https://drive.google.com/uc?id=1Jn_YpIPQo-VNf-Eq_ZeWOdMECezYYKQI"
+white_model_url = "https://drive.google.com/uc?id=10Ozf8JYZmo9kAwXJd-hM3llY_dKXrVCM"
 
 # ดาวน์โหลดโมเดลถ้ายังไม่มีไฟล์
 if not os.path.exists("generator_model_black_100.h5"):
     download_model(black_model_url, "generator_model_black_100.h5")
-if not os.path.exists("generator_model_white_100.h5"):
-    download_model(white_model_url, "generator_model_white_100.h5")
+if not os.path.exists("generator_model_white_200.h5"):
+    download_model(white_model_url, "generator_model_white_200.h5")
 
 @st.cache_data
 def load_model(path):
@@ -40,7 +40,7 @@ def generate_image(generator, input_image):
 
 # โหลดโมเดล
 generator_black = load_model("generator_model_black_100.h5")
-generator_white = load_model("generator_model_white_100.h5")
+generator_white = load_model("generator_model_white_200.h5")
 
 # UI
 st.title("Pix2Pix: Edge to Artistic Image")
